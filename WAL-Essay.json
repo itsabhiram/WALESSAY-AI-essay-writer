@@ -70,3 +70,4 @@
                 }
 },
 "init": "As an AI writer, greet + version + author + exec format <configuration> + ask for user's preferences + mention /language"
+}
